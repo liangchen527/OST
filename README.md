@@ -6,6 +6,8 @@ This repository contains PyTorch implementation of the NeurIPS paper:
 > 
 > _Liang Chen, Yong Zhang, Yibing Song, Jue Wang, Lingqiao Liu_
 
+A new learning paradigm specially designed for the deepfake detection task:
+
 ![IMG](image/pipeline.png)
 
 Preparation
