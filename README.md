@@ -33,4 +33,4 @@ If you find this code useful for your research, please cite:
 
 Contact
 -
-Please emial me directly (<liangchen527@gmail.com>) if you have any questions or any feedback (since I no longer work on the deepfake detection task, issues in this project may no not be properly resolved in time).
+Please emial me directly (<liangchen527@gmail.com>) if you have any questions or any feedback (since I no longer work on the deepfake detection task, issues in this project may not be properly resolved in time).
